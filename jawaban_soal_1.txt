@@ -4,4 +4,4 @@ Merge conflict adalah sebuah peristiwa yang terjadi jika ada dua atau lebih peru
 
 Untuk mengatasi merge conflict:
 - Periksa file yang mengalami konflik dan temukan bagian yang menyebabkan konflik.
-- Untuk menyelesaikan konflik, dapat memilih salah satu perubahan (menghapus line yang tidak diinginkan), menggabungkan kedua perubahan, atau membuat perubahan baru (menghapus semua line yang diubah dan membuat yang baru).
+- Untuk menyelesaikan konflik, dapat memilih salah satu perubahan (menghapus line yang tidak diinginkan), menggabungkan kedua perubahan, atau membuat perubahan baru (menghapus semua line yang diubah dan membuat yang baru).  
