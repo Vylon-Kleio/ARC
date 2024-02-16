@@ -1,0 +1,7 @@
+Apa itu merge conflict dan cara menanggulanginya
+
+Merge conflict adalah sebuah peristiwa yang terjadi jika ada dua atau lebih perubahan pada file yang sama dan pada line yang sama dari dua branch yang berbeda di-merge sehingga sistem tidak dapat secara otomatis menggabungkan perubahan tersebut.
+
+Untuk mengatasi merge conflict:
+- Periksa file yang mengalami konflik dan temukan bagian yang menyebabkan konflik.
+- Untuk menyelesaikan konflik, dapat memilih salah satu perubahan (menghapus line yang tidak diinginkan), menggabungkan kedua perubahan, atau membuat perubahan baru (menghapus semua line yang diubah dan membuat yang baru).
