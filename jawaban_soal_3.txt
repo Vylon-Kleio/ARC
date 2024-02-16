@@ -1,0 +1,5 @@
+Apa itu fork dan pull request GitHub
+
+Fork adalah copy dari repository orang lain. Forking adalah kegiatan meng-copy repository orang lain. Hal ini memungkinkan untuk membuat modifikasi pada repository tanpa memengaruhi repository yang asli
+
+Pull request adalah permintaan (request) untuk menggabungkan modifikasi yang telah dibuat di fork ke repository yang asli. Hal ini memungkinkan kita untuk dapat memberikan kontribusi ke repository asli dengan izin dari pemilik repository.
